@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanialK007
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning CS50
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kh2496187@gmail.com
 
