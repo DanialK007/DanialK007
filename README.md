@@ -5,7 +5,7 @@
 - 📫 How to reach me kh2496187@gmail.com
 - 👨‍💻 Here, see my portfolio https://danialkcube.rf.gd
 - 🖥️ See my recent projects
-    ⚙️ https://skyeunlock.rf.gd
+    ⚙️ https://skyeunlock.free.nf
 
 <!---
 DanialK007/DanialK007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
